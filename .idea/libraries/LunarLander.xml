@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LunarLander">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LanderDash+LunarLander+ControllerSkeletoncode+Demo/LunarLander/LunarLander.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
